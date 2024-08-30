@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 41" width="55" height="41">
+	<defs>
+		<image width="62" height="16" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCAxOCIgd2lkdGg9IjY0IiBoZWlnaHQ9IjE4Ij4KCTxkZWZzPgoJCTxjbGlwUGF0aCBjbGlwUGF0aFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgaWQ9ImNwMSI+CgkJCTxwYXRoIGQ9Ik0xIDFMNjMgMUw2MyAxN0wxIDE3WiIgLz4KCQk8L2NsaXBQYXRoPgoJPC9kZWZzPgoJPHN0eWxlPgoJCXRzcGFuIHsgd2hpdGUtc3BhY2U6cHJlIH0KCQkuc2hwMCB7IGZpbGw6ICNmZmJlNGUgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iUGFnZSAxIiBjbGlwLXBhdGg9InVybCgjY3AxKSI+CgkJPHBhdGggaWQ9IlBhdGggMSIgY2xhc3M9InNocDAiIGQ9Ik00Mi4wNSAwLjcyTDMyLjAxIDEzLjQxTDIxLjk2IDAuNzJMMTEuOTIgMTMuNDFMMi43NSAxLjgyTDEgMy4yMUwxMS45MiAxN0wyMS45NiA0LjMxTDMyLjAxIDE3TDQyLjA1IDQuMzFMNTIuMSAxN0w2My4wMiAzLjIxTDYxLjI3IDEuODJMNTIuMSAxMy40MUw0Mi4wNSAwLjcyWiIgLz4KCTwvZz4KPC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Header">
+		<g id="memphis">
+			<use id="Vector Smart Object" href="#img1" transform="matrix(0.861,-0.539,0.554,0.885,-0.715,31.995)"/>
+		</g>
+	</g>
+</svg>

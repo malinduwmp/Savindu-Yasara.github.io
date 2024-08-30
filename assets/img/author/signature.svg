@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 28" width="120" height="28">
+	<defs>
+		<image width="109" height="25" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="widget">
+		<g id="author_bio">
+			<g id="content">
+				<g id="name">
+					<use id="Charis deo" href="#img1" transform="matrix(1.101,0,0,1.12,0,0)"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

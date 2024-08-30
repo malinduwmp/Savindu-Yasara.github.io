@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 49" width="48" height="49">
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 36px;line-height: 28px;fill: #F0A500;font-family: "elementskit";text-anchor: middle } 
+	</style>
+	<g id="About_us">
+		<g id="play_icon">
+			<text id="" style="transform: matrix(1,0,0,1,24,34.5)" >
+				<tspan x="0" y="0" class="txt0"></tspan>
+			</text>
+		</g>
+	</g>
+</svg>

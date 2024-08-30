@@ -1,0 +1,310 @@
+
+/*
+Theme Name:  
+Theme url:
+Author:
+Author url:
+Version:1.0.0
+Tag:
+Description:
+
+================+/+/+/+/+/+/+/+/+/=================
+                    heigh
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (min-width: 1400px) {
+    .single-welcome-area{
+        height: 1000px;
+    }
+    .wlc-title h1{
+        font-size: 80px;
+        line-height: 90px
+
+    }
+    
+}
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    heigh
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (max-width: 1400px) {
+    
+    
+}
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    medium
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    
+}
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                     tab
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (max-width: 991px){
+    .skill-area.primery-skill .row:last-child > div {
+        margin-bottom: 30px;
+    }
+    .skill-area.primery-skill .row:last-child > div:last-child{
+        margin-bottom: 0
+    }
+    .service-area .row > div, 
+    .pricing-area .row > div{
+        margin-bottom: 40px;
+    }
+    .about-area .heading{
+        margin-top: 40px
+     }
+    .service-area .row > div:last-child, 
+    .pricing-area .row > div:last-child{
+        margin-bottom: 0;
+    }
+    .header-banner-area{
+        display: none;
+        height: 0
+    }
+    .header-area.header-main{
+        top: 0
+    }
+    .welcome-area.inner {
+        padding: 100px 0 50px 0;
+    }
+    .single-blog-section-description h2 {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .single-blog-section-author ul{
+        margin:20px 0;
+    }
+    .single-blog-section-author li{
+        padding: 5px 0;
+    }
+    .related_tags .row > div:last-child {
+        margin-top: 15px;
+    }
+    .post_prev_next .row > div {
+        text-align: left !important;
+        margin: 10px 0;
+    }
+    .single_comment {
+        position: relative;
+        z-index: 2;
+        padding: 0;
+    }
+    .comment_img {
+        width: 80px;
+        height: 80px;
+        text-align: center;
+        position: relative;
+        top: 100%;
+        left: 0;
+        margin-top: 0;
+        border-radius: 50%;
+        overflow: hidden;
+        margin-bottom: 30px;
+    }
+    .single_comment h4 {
+        font-size: 16px;
+    }
+    .comment_form{
+        margin-bottom: 50px;
+    }
+    .portfolio-filter li {
+        display: block;
+        text-align: center;
+    }
+    .contact-page-area .row > div, 
+    .map {
+        margin-bottom: 40px;
+    }
+    .contact-page-area .row > div:last-child{
+        margin-bottom: 0;
+    }
+    .cpagination{
+        margin-bottom: 50px;
+    }
+    .info-content{
+        margin-top: 30px;
+    }
+    .about-area .primery-heading{
+        margin-top: 40px;    
+    }
+    .wlc-author-1{
+        display: none;
+    }
+    .skill-box{
+        margin-bottom: 30px;
+     }
+
+}
+
+/*tablet layout:768px*/
+@media only screen and(min-width:768px) and (max-width:991px){
+	
+    
+
+
+	
+}    
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    Mobile
+================+/+/+/+/+/+/+/+/+/=================
+*/
+@media only screen and (max-width: 767px) {
+    .wlc-title h1{
+        font-size     : 32px;
+        line-height   : 36px;
+        letter-spacing: 1px;
+    }
+   .banner-social-wrap {
+        text-align : center;
+        margin-top : 7px;
+        border-top : 1px solid #657A84;
+        padding-top: 7px;
+    }
+    div#facts .row > div {
+        margin: 20px;
+    }
+    .author-1 {
+        display: none;
+    }
+    .single-welcome-area {
+        text-align: center;
+        height: 450px;
+        padding: 120px 0;
+    }
+    .blog-page-social {
+        text-align: justify;
+    }
+
+    .single-welcome-area.home_1 {
+        
+        margin-top: 120px;
+    }
+    .header-area{
+        padding: 10px 0;
+    }
+    .single-blog-img{
+        height: 500px !important;
+    }
+    .heading h2, 
+    .primery-heading h2 {
+        font-size: 32px;
+        line-height: 45px;
+    }
+    
+    .owl-nav {
+        position: absolute !important;
+        top: auto !important;
+        right: 0 !important;
+        bottom: -20% !important;
+        width: 100% !important;
+        text-align: center !important;
+    }
+    .da-thumbs li{
+        float: unset;
+    }
+    .testimonial-text h4 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .testimonial-text h4 {
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .testimonial-img {
+        height: 100px;
+        width: 100px;
+        border-radius: 50%;
+        overflow: hidden;
+        position: relative;
+        left: 0;
+        top: 50%;
+        margin-top: 0;
+        margin: 0 auto;
+        margin-bottom: 32px;
+    }
+
+    .testimonial {
+        position: relative;
+        z-index: 2;
+        padding-left: 0;
+        text-align: center;
+    }
+    .project-area.section-padding, 
+    .pricing-area.section-padding{
+        padding-bottom: 0
+    }
+    .cta-form input {
+        width: 100% !important;
+        margin-bottom: 30px;
+    }
+    a.subscribe-btn {
+        width: 78%;
+        float: none;
+    }
+    .heading.cta-heading h2 {
+        font-size: 34px;
+        line-height: 45px;
+    }
+    
+
+    .blog-area .owl-nav{
+        bottom: -5% !important
+    }
+    .blog-readmore-social div > div:last-child {
+        text-align: left;
+        margin-top: 15px;
+    }
+    .blog-banner h3 {
+        font-size: 20px;
+        color: #fff;
+        line-height: 34px;
+    }
+    .blog-banner{
+        padding: 20px
+    }
+    .cta-form a.subscribe-btn {
+        width: 75%;
+        float: left;
+    }
+    .single-quote {
+        padding: 20px;
+    }
+
+    .skill-area .skill{
+        margin-bottom: 30px;
+    }
+     .skill-area .skill:last-child{
+        margin-bottom: 0;
+     }
+     .welcome-carousel .owl-dots{
+        bottom: 40%;
+     }
+
+     
+}
+
+/*
+================+/+/+/+/+/+/+/+/+/=================
+                    wid device
+================+/+/+/+/+/+/+/+/+/=================
+*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.container{
+		width: 480px;
+	}
+    
+
+}
+/*=========================================================================
+                                The end
+==========================================================================*/

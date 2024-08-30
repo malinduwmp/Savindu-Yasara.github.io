@@ -1,0 +1,66 @@
+a.cbtn {
+    display: inline-block;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 13px 25px;
+    background: red;
+    border-radius: 4px;
+}
+
+a.cbtn.cbnt1 {
+    background: #F0A500;
+    padding-right: 70px;
+    position: relative;
+    z-index: 2;
+    border: 1px solid transparent;
+    color:#fff;
+}
+
+a.cbtn.cbnt1 i {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    background: #fff;
+    color: #F0A500;
+    border-radius: 4px;
+    margin-top: -15px;
+}
+
+
+
+a.cbtn.cbnt1:hover{
+    border-color:#F0A500;
+    background: transparent;
+    color:#F0A500;
+    transition: all .3s;
+}
+
+
+a.cbtn.pricing-btn {
+    background: #F0A500;
+    padding-right: 70px;
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+
+a.cbtn.pricing-btn i {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    background: #fff;
+    color: #121517;
+    border-radius: 4px;
+    margin-top: -15px;
+}
+

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154 155" width="154" height="155">
+	<defs>
+		<radialGradient id="grd1" gradientUnits="userSpaceOnUse"  cx="43.496" cy="27.484" r="95.459">
+			<stop offset="0" stop-color="#b5b5b5"  />
+			<stop offset="1" stop-color="#b5b5b5" stop-opacity="0" />
+		</radialGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: #ffffff } 
+	</style>
+	<g id="Service">
+		<g id="Service_list">
+			<g id="01">
+				<g id="icon">
+					<path id="Rectangle 5" class="shp0" d="M77 18C101.85 18 122 38.15 122 63C122 87.85 101.85 108 77 108C52.15 108 32 87.85 32 63C32 38.15 52.15 18 77 18Z" />
+					<path id="Shape 8" class="shp1" d="M82.75 55.62L82.75 46L72.25 46L72.25 55.62L77.5 60.87L82.75 55.62ZM69.62 58.25L60 58.25L60 68.75L69.62 68.75L74.87 63.5L69.62 58.25ZM72.25 71.37L72.25 81L82.75 81L82.75 71.37L77.5 66.12L72.25 71.37ZM85.37 58.25L80.12 63.5L85.37 68.75L95 68.75L95 58.25L85.37 58.25Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

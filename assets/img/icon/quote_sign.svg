@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59 43" width="59" height="43">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f1f1f1 } 
+	</style>
+	<g id="Testimonials">
+		<g id="content">
+			<g id="quote_sign">
+				<path id="quote_sigh" class="shp0" d="M6 42L18 42L26 26L26 2L2 2L2 26L14 26L6 42ZM38 42L50 42L58 26L58 2L34 2L34 26L46 26L38 42Z" />
+			</g>
+		</g>
+	</g>
+</svg>
